@@ -16,7 +16,7 @@ Huiyuan Tian, Li Zhang, Shijian Li, Min Yao and Gang Pan
 
 #### Training
 
-For different scale, the following commands can be used for training respectively:
+For different scales, the following commands can be used for training respectively:
 
 ```
 # train MDBN for x2 SR
@@ -29,9 +29,9 @@ python basicsr/train.py -opt options/train/MDBN/train_MDBN_x4.yml
 
 #### Testing
 
-1. Download the pretrained models.
+1. Download the pre-trained models.
 2. Download the testing dataset.
-3. For different scale, the following commands can be used for training respectively:
+3. For different scales, the following commands can be used for testing respectively:
 
 ```
 # test MDBN for x2 SR
