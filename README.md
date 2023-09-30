@@ -29,7 +29,7 @@ python basicsr/train.py -opt options/train/MDBN/train_MDBN_x4.yml
 
 #### Testing
 
-1. Download the pre-trained models.
+1. Download the [pre-trained models](https://github.com/thy960112/MDBN/tree/main/experiments/pretrained_models).
 2. Download the testing dataset.
 3. For different scales, the following commands can be used for testing respectively:
 
