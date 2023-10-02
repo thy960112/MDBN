@@ -2,7 +2,7 @@
 
 ![Architecture](https://github.com/thy960112/MDBN/blob/main/architecture.png)
 
-**Multi-Depth Branches Network for Efficient Image Super-Resolution**
+**[Multi-Depth Branches Network for Efficient Image Super-Resolution](https://arxiv.org/abs/2309.17334)**
 
 Huiyuan Tian, Li Zhang, Shijian Li, Min Yao and Gang Pan
 
