@@ -14,7 +14,7 @@ Huiyuan Tian, Li Zhang, Shijian Li, Min Yao and Gang Pan
 2. Install PyTorch (tested on Release 1.12)
 3. [BasicSR 1.4.2](https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md)
 
-### Installation
+#### Installation
 ```
 # Clone the repo
 git clone https://github.com/thy960112/MDBN.git
