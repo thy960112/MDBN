@@ -14,6 +14,17 @@ Huiyuan Tian, Li Zhang, Shijian Li, Min Yao and Gang Pan
 2. Install PyTorch (tested on Release 1.12)
 3. [BasicSR 1.4.2](https://github.com/XPixelGroup/BasicSR/blob/master/docs/INSTALL.md)
 
+### Installation
+```
+# Clone the repo
+git clone https://github.com/thy960112/MDBN.git
+# Install dependent packages
+cd MDBN
+pip install -r requirements.txt
+# Install BasicSR
+python setup.py develop
+```
+
 #### Training
 
 For different scales, the following commands can be used for training respectively:
